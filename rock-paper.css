@@ -1,0 +1,23 @@
+body{
+  background-color: aquamarine;
+  font-size: 20px;
+}
+.emoji-icon{
+  height: 50px;
+}
+.button-icon{
+  background-color: transparent;
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  cursor: pointer;
+}
+.reset-button{
+  padding: 10px;
+  cursor: pointer; 
+
+}
+.the-results{
+  font-size: 30px;
+}
